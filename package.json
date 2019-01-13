@@ -1,0 +1,19 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "first app with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "js",
+    "express.js"
+  ],
+  "author": "Amr Aly",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
