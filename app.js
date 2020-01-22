@@ -7,7 +7,7 @@ var envVar = process.env.EnvVar;
 var port = process.env.PORT || 4000;
 
 app.get('/', function (req, res) {
-    res.send('Hello, world!');
+    res.send('Deployed from azure cli');
 });
 
 
